@@ -19,7 +19,7 @@ public Plugin:myinfo = {
 	author = "c0meback",
 	description = "Prefix-influenced plugin management.",
 	version = "1",
-	url = "N/A"
+	url = "https://github.com/ReeseReynolds/Map-Prefix-Handler"
 }
 
 Handle mph_var = INVALID_HANDLE;
